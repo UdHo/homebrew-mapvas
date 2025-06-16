@@ -3,9 +3,9 @@
 class Mapvas < Formula
   desc "mapvas - a hackable map viewer"
   homepage "https://github.com/udho/homebrew-mapvas"
-  url "https://github.com/udho/mapvas/releases/download/0.2.3/mapvas-macos.zip"
-  sha256 "fa1bb9b69914d67ff9e26496ddb4a816975945f5f756499f973815d4dd8e2d4c"
-  version "0.2.3"
+  url "https://github.com/udho/mapvas/releases/download/0.2.4/mapvas-macos.zip"
+  sha256 "0ce8a48a36f6f8e2f614207531fcea9eb344f5ece360f6a61a3307590556f31a"
+  version "0.2.4"
 
   def install
     bin.install "mapvas"
